@@ -1,0 +1,1 @@
+This file serves only for Git to accept 'main' folder which is important for storing images.
