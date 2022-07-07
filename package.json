@@ -28,7 +28,7 @@
         "@fortawesome/fontawesome-free": "^5.9.0",
         "babel-runtime": "^6.26.0",
         "laravel-vue-pagination": "^2.3.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "sweetalert2": "^8.13.0",
         "vform": "^1.0.1",
         "vue-froala-wysiwyg": "^2.9.6",
